@@ -36,7 +36,7 @@ Problem Solving 🛠️</li>
 
 <h3 align="center"> 🔧 Tools I Use </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Python,JavaScript" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=Vscode,blender" alt="tools" />
 </p>
 <hr>
 
